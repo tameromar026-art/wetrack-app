@@ -1,12 +1,11 @@
-"short_name": "المصرية للاتصالات",
-"name": "نظام تتبع الأعطال - المصرية للاتصالات",{
-  "name": "WE TRACK | منظومة إدارة الشبكة الأرضية",
-  "short_name": "WE TRACK",
+{
+  "short_name": "المصرية للاتصالات",
+  "name": "المصرية للاتصالات - نظام تتبع الأعطال",
   "lang": "ar",
   "dir": "rtl",
-  "start_url": "./index.html",
-  "scope": "./",
+  "start_url": "/index.html",
+  "scope": "/",
   "display": "standalone",
-  "background_color": "#f4f5fa",
-  "theme_color": "#5b21b6"
+  "background_color": "#111111",
+  "theme_color": "#0078d4"
 }
