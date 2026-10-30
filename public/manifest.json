@@ -1,0 +1,11 @@
+{
+  "name": "WE TRACK | منظومة إدارة الشبكة الأرضية",
+  "short_name": "WE TRACK",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4f5fa",
+  "theme_color": "#5b21b6"
+}
